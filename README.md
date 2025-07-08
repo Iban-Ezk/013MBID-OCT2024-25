@@ -8,6 +8,7 @@ Universidad Internacional de Valencia*
 
 Prof: Dr. Horacio Kuna
 Dictado: OCT24-25
+Estudiante: Ivan Ezcurdia Razquin
 
 ## Descripción del contenido
 
