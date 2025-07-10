@@ -1,0 +1,5 @@
+outs:
+- md5: f7cf96cf7b9911a265a837248691053c
+  size: 1598796
+  hash: md5
+  path: datos_integrados_c.csv
